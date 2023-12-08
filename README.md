@@ -222,6 +222,15 @@ int main( void ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-base/ops/addf`][@stdlib/math/base/ops/addf]</span><span class="delimiter">: </span><span class="description">compute the sum of two single-precision floating-point numbers.</span>
+-   <span class="package-name">[`@stdlib/math-base/ops/div`][@stdlib/math/base/ops/div]</span><span class="delimiter">: </span><span class="description">divide two double-precision floating-point numbers.</span>
+-   <span class="package-name">[`@stdlib/math-base/ops/mulf`][@stdlib/math/base/ops/mulf]</span><span class="delimiter">: </span><span class="description">multiply two single-precision floating-point numbers.</span>
+-   <span class="package-name">[`@stdlib/math-base/ops/subf`][@stdlib/math/base/ops/subf]</span><span class="delimiter">: </span><span class="description">subtract two single-precision floating-point numbers.</span>
+
 </section>
 
 <!-- /.related -->
@@ -294,6 +303,18 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/math-base-ops-divf/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-ops-divf/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/ops/addf]: https://github.com/stdlib-js/math-base-ops-addf
+
+[@stdlib/math/base/ops/div]: https://github.com/stdlib-js/math-base-ops-div
+
+[@stdlib/math/base/ops/mulf]: https://github.com/stdlib-js/math-base-ops-mulf
+
+[@stdlib/math/base/ops/subf]: https://github.com/stdlib-js/math-base-ops-subf
+
+<!-- </related-links> -->
 
 </section>
 
