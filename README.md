@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import divf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-divf@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-ops-divf/tags). For example,
+
+```javascript
 import divf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-divf@v0.2.0-deno/mod.js';
 ```
 
@@ -98,7 +103,7 @@ v = divf( NaN, NaN );
 
 ```javascript
 import rand from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
-import divf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-divf@v0.2.0-deno/mod.js';
+import divf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-divf@deno/mod.js';
 
 var x;
 var y;
