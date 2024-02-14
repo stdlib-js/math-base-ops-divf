@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import divf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-divf@esm/index.mjs';
+import divf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-divf@v0.2.0-esm/index.mjs';
 ```
 
 #### divf( x, y )
@@ -103,7 +103,7 @@ v = divf( NaN, NaN );
 <script type="module">
 
 import rand from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
-import divf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-divf@esm/index.mjs';
+import divf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-divf@v0.2.0-esm/index.mjs';
 
 var x;
 var y;
